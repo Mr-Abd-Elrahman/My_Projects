@@ -36,7 +36,7 @@ one of the biggest Youtub Channels for Programming [Elzero Web School](https://w
 ---
 
   ### 5️⃣ How to Authintcate with Remote Repo
-  to push you modefications and 
+  to push your modefications to the remote repo
   
 ---
   ### 6️⃣ How to collaborate with other people in one project 
