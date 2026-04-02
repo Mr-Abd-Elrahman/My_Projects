@@ -2,7 +2,7 @@
 # 💻 My_Projects
 this is my first project in Github training with 
 Mr Osama Elzero owner of [Elzero Academy](https://elzero.org/learn-git-and-github/#google_vignette) and 
-one of the bigest youtub Channles for Programming [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
+one of the biggest Youtub Channels for Programming [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
 ## ▶️ Course Content
 ---
 
