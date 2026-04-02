@@ -1,9 +1,8 @@
 
 # 💻 My_Projects
 this is my first project in Github training with 
-Mr Osama Elzero owner of [Elzero Web School](https://elzero.org/learn-git-and-github/#google_vignette)
-for Programming 
-
+Mr Osama Elzero owner of [Elzero Academy](https://elzero.org/learn-git-and-github/#google_vignette) and 
+one of the bigest youtub Channles for Programming [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
 ## ▶️ Course Content
 ---
 
@@ -45,8 +44,11 @@ for Programming
 ---
 
   ### 7️⃣ Explain what is Markdown (Language)
-  
 
+  ---
+  
+ ⚠️ **Note:** That's only what i have reached of the course and i will put the new
+content soon
   
  
 
