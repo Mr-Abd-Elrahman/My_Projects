@@ -25,7 +25,7 @@ one of the biggest Youtub Channels for Programming [Elzero Web School](https://w
 - git push
 - git pull
 - and others.....
-- 
+  
 ---
 
   ### 4️⃣ How to use Terminal To
