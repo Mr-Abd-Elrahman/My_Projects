@@ -18,12 +18,13 @@ one of the biggest Youtub Channels for Programming [Elzero Web School](https://w
 - 🏠 **branch**
 ---
 
-### 3️⃣ Git Famouse Commands
+### 3️⃣ Git Famouse Commands (🗒️)
 - git add
 - git commit
 - git reset HEAD
 - git push
 - git pull
+- git config 
 - and others.....
   
 ---
@@ -46,6 +47,14 @@ one of the biggest Youtub Channels for Programming [Elzero Web School](https://w
   ### 7️⃣ Explain what is Markdown (Language)
 
   ---
+  
+  ### 8️⃣ Making a secure shell key (🔑) to Authintcate with Github 
+  
+  -**without asking every time for the username and password**
+
+  ---
+
+  ### 9️⃣ How to make a local Repo and link it with the remote repo through the SSH key 🔑
   
  ⚠️ **Note:** That's only what i have reached of the course and i will put the new
 content soon
