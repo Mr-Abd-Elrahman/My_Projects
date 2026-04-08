@@ -55,6 +55,8 @@ one of the biggest Youtub Channels for Programming [Elzero Web School](https://w
   ---
 
   ### 9️⃣ How to make a local Repo and link it with the remote repo through the SSH key 🔑
+
+  ---
   
  ⚠️ **Note:** That's only what i have reached of the course and i will put the new
 content soon
